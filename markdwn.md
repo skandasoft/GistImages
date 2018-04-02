@@ -16,3 +16,10 @@
 ![Windows Container with HyperVisor](assets/markdwn-0db95541.png)<br>
 ![Window/linux container with docker](assets/markdwn-6c98b37d.png)<br>
 ![High Level overview of docker](assets/markdwn-1f4541ab.png)<br>
+![Read-only Image](assets/markdwn-13d6b3d3.png)<br>
+![Docker-Pull](assets/markdwn-60bebcbb.png)<br>
+![Docker-RW Layer](assets/markdwn-8999aa0f.png)<br>
+![Images-Multiple Layers](assets/markdwn-93a780c0.png)<br>
+![Multi-Step - Pull](assets/markdwn-15bef6c5.png)<br>
+![Images-tar](assets/markdwn-053f323c.png)<br>
+![Base-Layer](assets/markdwn-500a920d.png) ![docker-history](assets/markdwn-436a0efd.png) ![docker-registery](assets/markdwn-da991645.png)
